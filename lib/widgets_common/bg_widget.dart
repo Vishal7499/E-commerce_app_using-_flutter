@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 import 'package:emart_app/consts/consts.dart';
+import 'package:emart_app/consts/lists.dart';
 
 Widget bgWidget({Widget? child}){
   return Container(
